@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TopicList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mess>
+    <Topic>
+      <priv>
+        <PrivateLetter>
+          <message>Bienvenue à tous</message>
+          <from>jerem</from>
+          <to>Salut à tous</to>
+        </PrivateLetter>
+      </priv>
+      <nameTopic>Salut à tous</nameTopic>
+    </Topic>
+    <Topic>
+      <priv>
+        <PrivateLetter>
+          <message>J'aime le rhûm</message>
+          <from>Julien</from>
+          <to>Bouteille</to>
+        </PrivateLetter>
+        <PrivateLetter>
+          <message>Super</message>
+          <from>MagicFame</from>
+          <to>Bouteille</to>
+        </PrivateLetter>
+        <PrivateLetter>
+          <message>ok</message>
+          <from>Julien</from>
+          <to>Bouteille</to>
+        </PrivateLetter>
+        <PrivateLetter>
+          <message>Test</message>
+          <from>louisthebest100</from>
+          <to>Bouteille</to>
+        </PrivateLetter>
+        <PrivateLetter>
+          <message>Oui</message>
+          <from>MagicFame</from>
+          <to>Bouteille</to>
+        </PrivateLetter>
+        <PrivateLetter>
+          <message>Ok</message>
+          <from>MagicFame</from>
+          <to>Bouteille</to>
+        </PrivateLetter>
+      </priv>
+      <nameTopic>Bouteille</nameTopic>
+    </Topic>
+    <Topic>
+      <priv>
+        <PrivateLetter>
+          <message>What do you think about human ?</message>
+          <from>MagicFame</from>
+          <to>Human Needs</to>
+        </PrivateLetter>
+        <PrivateLetter>
+          <message>It's true</message>
+          <from>MagicFame</from>
+          <to>Human Needs</to>
+        </PrivateLetter>
+      </priv>
+      <nameTopic>Human Needs</nameTopic>
+    </Topic>
+  </mess>
+</TopicList>

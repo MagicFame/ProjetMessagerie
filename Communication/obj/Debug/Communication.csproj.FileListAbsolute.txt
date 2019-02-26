@@ -1,0 +1,12 @@
+C:\Users\MagicFame\source\repos\ProjetMessagerie\CommunicationProtocole\bin\Debug\CommunicationProtocole.dll
+C:\Users\MagicFame\source\repos\ProjetMessagerie\CommunicationProtocole\bin\Debug\CommunicationProtocole.pdb
+C:\Users\MagicFame\source\repos\ProjetMessagerie\CommunicationProtocole\obj\Debug\Communication.csprojAssemblyReference.cache
+C:\Users\MagicFame\source\repos\ProjetMessagerie\CommunicationProtocole\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\MagicFame\source\repos\ProjetMessagerie\CommunicationProtocole\obj\Debug\CommunicationProtocole.dll
+C:\Users\MagicFame\source\repos\ProjetMessagerie\CommunicationProtocole\obj\Debug\CommunicationProtocole.pdb
+C:\Users\MagicFame\source\repos\ProjetMessagerie\Communication\bin\Debug\CommunicationProtocole.dll
+C:\Users\MagicFame\source\repos\ProjetMessagerie\Communication\bin\Debug\CommunicationProtocole.pdb
+C:\Users\MagicFame\source\repos\ProjetMessagerie\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+C:\Users\MagicFame\source\repos\ProjetMessagerie\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\MagicFame\source\repos\ProjetMessagerie\Communication\obj\Debug\CommunicationProtocole.dll
+C:\Users\MagicFame\source\repos\ProjetMessagerie\Communication\obj\Debug\CommunicationProtocole.pdb

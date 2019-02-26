@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <usersDB>
+    <Account>
+      <username>test</username>
+      <password>123</password>
+    </Account>
+    <Account>
+      <username>jerem</username>
+      <password>12</password>
+    </Account>
+    <Account>
+      <username>MagicFame</username>
+      <password>test</password>
+    </Account>
+    <Account>
+      <username>Julien</username>
+      <password>123</password>
+    </Account>
+    <Account>
+      <username>Uzan</username>
+      <password>123</password>
+    </Account>
+    <Account>
+      <username>Guillaume</username>
+      <password>fdp</password>
+    </Account>
+    <Account>
+      <username>louisthebest100</username>
+      <password>test</password>
+    </Account>
+    <Account>
+      <username>Marc</username>
+      <password>pass</password>
+    </Account>
+  </usersDB>
+</Users>

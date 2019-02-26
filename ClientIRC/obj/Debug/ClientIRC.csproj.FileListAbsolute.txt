@@ -1,0 +1,10 @@
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\bin\Debug\ClientIRC.exe.config
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\bin\Debug\ClientIRC.exe
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\bin\Debug\ClientIRC.pdb
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\bin\Debug\CommunicationProtocole.dll
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\bin\Debug\CommunicationProtocole.pdb
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\obj\Debug\ClientIRC.csprojAssemblyReference.cache
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\obj\Debug\ClientIRC.csproj.CoreCompileInputs.cache
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\obj\Debug\ClientIRC.csproj.CopyComplete
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\obj\Debug\ClientIRC.exe
+C:\Users\MagicFame\source\repos\ProjetMessagerie\ClientIRC\obj\Debug\ClientIRC.pdb

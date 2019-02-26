@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Messages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mess>
+    <PrivateLetter>
+      <message>salut</message>
+      <from>Julien</from>
+      <to>MagicFame</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>test</message>
+      <from>MagicFame</from>
+      <to>Julien</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>Salut bro</message>
+      <from>MagicFame</from>
+      <to>louisthebest100</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>test</message>
+      <from>Julien</from>
+      <to>MagicFame</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>salut</message>
+      <from>MagicFame</from>
+      <to>Julien</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>Nouveau test</message>
+      <from>MagicFame</from>
+      <to>Julien</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>Ok</message>
+      <from>MagicFame</from>
+      <to>Julien</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>Super</message>
+      <from>MagicFame</from>
+      <to>Julien</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>bonjour</message>
+      <from>MagicFame</from>
+      <to>Personne</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>tu reponds pas ?</message>
+      <from>MagicFame</from>
+      <to>Personne</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>message pour moi</message>
+      <from>MagicFame</from>
+      <to>MagicFame</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>test</message>
+      <from>MagicFame</from>
+      <to>louisthebest100</to>
+    </PrivateLetter>
+    <PrivateLetter>
+      <message>super</message>
+      <from>MagicFame</from>
+      <to>MagicFame</to>
+    </PrivateLetter>
+  </mess>
+</Messages>
